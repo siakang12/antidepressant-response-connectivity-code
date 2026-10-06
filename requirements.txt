@@ -1,0 +1,5 @@
+# Python package requirements for 03_motion_scrubbing_analysis.py
+pandas
+numpy
+scipy
+openpyxl

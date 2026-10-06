@@ -1,0 +1,6 @@
+# R packages used by the analysis scripts
+readxl
+dplyr
+tidyr
+purrr
+writexl
